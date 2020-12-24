@@ -59,7 +59,7 @@ if ($status == false) {
         </tr>
       </thead>
       <tbody>
-        <!-- ここに<tr><td>name</td><td>sex</td><tr>hobby</td>の形でデータが入る -->
+        <!-- <tr><td>name</td><td>sex</td><tr>hobby</td>の形でデータが入る -->
         <?= $output ?>
       </tbody>
     </table>
